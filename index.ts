@@ -1,5 +1,4 @@
-import {run} from "./simulation/zombieSimulation";
-import {Move} from "./simulation/types";
+import {run, Move} from "./simulation";
 
 run({
   gridSize: 4,
